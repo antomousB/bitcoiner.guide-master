@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![uk-flag](uk-flag.png)](/) [![es-flag](es-flag.png)](index-es)
+[![uk-flag](uk-flag.png)](bitcoiner.guide-master/) [![es-flag](es-flag.png)](index-es)
 
 [![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG1.png)](https://bitcoiner.guide/)
 
