@@ -1,0 +1,280 @@
+I"X.<p><a href="https://bitcoiner.guide/"><img src="https://raw.githubusercontent.com/BitcoinQnA/bitcoiner.guide/master/assets/images/BDG1.png" alt="bitcoinerheader" /></a></p>
+
+<p><a href="index"><img src="de-flag.png" alt="de-flag-2" /></a></p>
+
+<p>Ein ganz normaler Typ mit einem regulären Job und einer Leidenschaft für Bitcoin. Während sich mein Wissen verbessert, versuche ich, durch das Bereitstellen und Zusammentragen der folgenden Informationen an die Gemeinschaft zurückzugeben. Ich bin weder ein Programmierer oder Entwickler, noch habe ich technische Vorkenntnisse. Ich hatte das Glück, regelmäßig mit einigen klugen und großzügigen Menschen zu sprechen, die mir halfen, diese komplexen Themen zu verstehen. Dieses Wissen versuche ich, auf eine zugängliche Art und Weise zu präsentieren, damit Andere davon profitieren können.</p>
+
+<p>Diese Seite ist eine vollständige Sammlung meiner Beiträge, auf die ich Leute verweisen kann, wenn sie anfangen sich mit diesem Thema zu beschäftigen. Wenn du diese Seite wertvoll findest, teile sie bitte weiter.</p>
+
+<p><br /></p>
+
+<h3 id="haupt-ressourcen">Haupt-Ressourcen</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Ressource</th>
+      <th>Beschreibung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/">BitcoinQnA</a></td>
+      <td>Einfaches Q+A um mit den Bitcoin Grundlagen loszulegen</td>
+    </tr>
+    <tr>
+      <td><a href="https://bitcoinprivacy.guide/">Bitcoin Privacy Guide</a></td>
+      <td>Ein Ratgeber, um Bitcoiner zu helfen, ihre Privatsphäre zu stärken</td>
+    </tr>
+    <tr>
+      <td><a href="https://bitcoingraphics.page/">Bitcoin Graphics</a></td>
+      <td>Grafische Bitcoin Erläuterungen</td>
+    </tr>
+    <tr>
+      <td><a href="https://bitcoinmonthly.news/">Bitcoin Monthly</a></td>
+      <td>Eine Auflistung der wichtigsten Nachrichten und Entwicklungen des letzten Monats</td>
+    </tr>
+    <tr>
+      <td><a href="https://node.guide/">Bitcoin Node Guide</a></td>
+      <td>Ein Ratgeber, um Bitcoiner zu helfen, unterschiedliche Node-Optionen zu verstehen</td>
+    </tr>
+    <tr>
+      <td><a href="https://bitcoinwallet.guide/">Bitcoin Wallet Guide</a></td>
+      <td>Ein Ratgeber, um Bitcoiner zu helfen, unterschiedliche Wallet-Optionen zu verstehen</td>
+    </tr>
+    <tr>
+      <td><a href="https://btcwhitepaper.com/">Bitcoin Whitepaper</a></td>
+      <td>Eine Kopie des Bitcoin Whitepaper von Satoshi Nakamoto</td>
+    </tr>
+    <tr>
+      <td><a href="http://bitcoinbackup.io">Bitcoin Backup</a></td>
+      <td>Bitcoin Seed-Widerherstellungsblätter zum Ausdrucken</td>
+    </tr>
+    <tr>
+      <td><a href="https://ln.guide/">Lightning Network Guide</a></td>
+      <td>Das Lightning Netzwerk: Eine grundlegende Einführung</td>
+    </tr>
+    <tr>
+      <td><a href="https://bitcoinqna.github.io/noKYConly/">no-KYC only</a></td>
+      <td>Erläuterungen zu den Risiken beim Kauf von Bitcoin über KYC-Routen</td>
+    </tr>
+    <tr>
+      <td><a href="https://verify.supply/">Verify.Supply</a></td>
+      <td>Ein Ratgeber, um Bitcoiner zu helfen, das aktuelle Angebot von Bitcoin zu verifizieren</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.whirlpoolfees.com/">Whirlpool Fee Calculator</a></td>
+      <td>Ein Werkzeug, das Whirlpool-Nutzern hilft, Gebühren vor dem Mischen zu berechnen</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/articles">Articles</a></td>
+      <td>Eine Sammlung von Artikeln in Bezug auf Wallets, Ndes sowie das Kaufen von Bitcoin</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/BitcoinQnA">Github</a></td>
+      <td>Wird für die Erstellung und das Hosting dieser Seite und der meisten der oben aufgeführten Seiten verwendet</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="other-resources">Other Resources</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://anchor.fm/daniel-prince6/episodes/BitcoinQ_A---Beginners-Or-Refreshers-Guide-To-Bitcoin-eguivq">Once BITten</a></td>
+      <td>Podcast appearance covering the beginners guide to Bitcoin</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bit-buy-bit.com/podcast-1/episode/26df4d37/ep35-bitcoin-podcast-with-itcoin-qa">Bit-Buy-Bit #1</a></td>
+      <td>Podcast appearance covering the basics of Bitcoin wallets</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bit-buy-bit.com/podcast-1/episode/1c6e67f7/ep38-bitcoin-podcast-with-bitcoin-qa-nodes">Bit-Buy-Bit #2</a></td>
+      <td>Podcast appearance covering the basics of Bitcoin nodes</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bit-buy-bit.com/podcast-1/episode/1cdf5f46/ep41-bitcoin-podcast-with-bitcoin-qa-lightning">Bit-Buy-Bit #3</a></td>
+      <td>Podcast appearance covering the basics of the Lightning Network</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bit-buy-bit.com/podcast-1/episode/2a64f9e1/ep43-bitcoin-podcast-with-bitcoin-qa-coinjoin">Bit-Buy-Bit #4</a></td>
+      <td>Podcast appearance covering the basics of Coinjoin + Samourai Wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=QkNxSmdtNNs&amp;feature=youtu.be">Satoshi en Venezuela</a></td>
+      <td>Podcast appearance covering privacy, Bitcoin myths and common mistakes</td>
+    </tr>
+    <tr>
+      <td><a href="https://youtu.be/9t8WsT9NpUU">Citadel Dispatch</a></td>
+      <td>Podcast appearance covering privacy, noKYC and nodes</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="article-list">Article List</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/samourai-101">Samourai Wallet 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer of Samourai Wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/opendime-101">OpenDime 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using an Open Dime</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/zeus-101">Zeus 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using Zeus</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/coldcard-101">Coldcard 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using a Coldcard Hardware Wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/zap-101">Zap 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using Zap</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/bluewallet-101">Blue Wallet 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using Blue Wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/sentinel-101">Sentinel 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using Sentinel ‘watch only’ wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/sparrow-wallet-101">Sparrow Wallet 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using Sparrow desktop wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/specter-desktop-101">Specter Desktop 101</a></td>
+      <td>Wallets</td>
+      <td>Basic explainer on setting up and using Specter desktop wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/mynode-features-101">myNode 101</a></td>
+      <td>Nodes</td>
+      <td>Feature breakdown of myNode</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/ronindojo-101">RoninDojo 101</a></td>
+      <td>Nodes</td>
+      <td>Feature breakdown of RoninDojo</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/connecting-or-migrating-your-samourai-wallet-to-ronindojo">Migrating your Samourai Wallet to RoninDojo</a></td>
+      <td>Nodes</td>
+      <td>Connect or migrating Samourai Wallet to RoninDojo guide</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/rescanning-xpubs-using-dojo-maintenance-tool">Rescanning XPUBs using Dojo Maintenance Tool</a></td>
+      <td>Nodes</td>
+      <td>Guide to restore balances using Dojo Maintenance Tool</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/samourai-wallet-cold-storage-implications">Samourai Wallet Cold Storage Implications</a></td>
+      <td>Privacy</td>
+      <td>Explainer on the considerations required when spending to cold storage</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/dealing-with-coinjoin-change-outputs">Dealing With Coinjoin Change Outputs</a></td>
+      <td>Privacy</td>
+      <td>Tips on ways to deal with change outputs from Coinjoins</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/10-tips-for-interacting-with-bitcoin-more-privately">10 Tips For Interacting With Bitcoin More Privately</a></td>
+      <td>Privacy</td>
+      <td>Simple privacy tips for interacting with Bitcoin</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/your-first-mobile-coinjoin">Your First Mobile Coinjoin</a></td>
+      <td>Privacy</td>
+      <td>Guide for using Whirlpool on mobile</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/whirlpool-faq">Whirlpool + Postmix spending FAQ</a></td>
+      <td>Privacy</td>
+      <td>Whirlpool explainer and answers to FAQ</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/10-steps-to-your-first-non-kyc-bitcoin">10 Steps To Your First no-KYC Bitcoin</a></td>
+      <td>Getting Bitcoin</td>
+      <td>Guide for purchasing bitcoin on Bisq</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/10-steps-to-your-first-non-kyc-bitcoin-hodlhodl-edition">10 Steps To Your First no-KYC Bitcoin (Hodl Hodl)</a></td>
+      <td>Getting Bitcoin</td>
+      <td>Guide for purchasing bitcoin on Hodl Hodl</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/creating-a-buy-offer-on-hodl-hodl">Creating A Buy Offer On  Hodl Hodl</a></td>
+      <td>Getting Bitcoin</td>
+      <td>Guide for creating a buy offer using Hodl Hodl</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/10-ways-to-lose-your-bitcoin">10 ways to lose your bitcoin</a></td>
+      <td>Security</td>
+      <td>Tips for newcomers to avoid losing their bitcoin</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitcoinqna.com/post/verifying-software-101">Verifying Software 101</a></td>
+      <td>Security</td>
+      <td>Guide to help users verify the software they download</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="support">Support</h3>
+
+<p>If you have found my contributions valuable, sats are gratefully received.</p>
+
+<ul>
+  <li><a href="https://bqa.duckdns.org:20486/apps/96ZvtoJQr9bz5QyeDoUfhkmNTLZ/pos">BTCPay</a></li>
+  <li><a href="https://tippin.me/@BitcoinQ_A">Tippin.Me</a></li>
+  <li><a href="https://paynym.is/+BQA">PayNym</a></li>
+</ul>
+
+<h3 id="contact">Contact</h3>
+
+<p>Feel free to reach out about anything, I am by no means an expert but I will always support those who are keen to learn.</p>
+
+<ul>
+  <li><a href="https://twitter.com/BitcoinQ_A">Twitter</a></li>
+  <li><a href="https://t.me/BitcoinQnA">Telegram</a></li>
+  <li><a href="https://keybase.io/bitcoinqna">Keybase</a></li>
+  <li><a href="https://matrix.to/#/@qna:bitcoiner.chat">Matrix</a></li>
+  <li><a href="https://social.bitcoiner.guide/web/accounts/1#">Mastodon</a></li>
+  <li><a href="mailto:bitcoinqna@tutanota.com">Email</a></li>
+  <li><a href="pgp">PGP</a></li>
+  <li><a href="pgp-antomousB">PGP antomousB</a></li>
+</ul>
+:ET

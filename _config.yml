@@ -1,0 +1,6 @@
+title: Bitcoiner.Guide
+description: A collection of Bitcoin resources by BitcoinQnA
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-midnight
+baseurl: "bitcoiner.guide-master"
